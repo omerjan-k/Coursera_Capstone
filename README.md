@@ -25,9 +25,4 @@ Notes
 - To reproduce results, set random seeds in notebooks and pin package versions.
 - For Colab: File → Open notebook → GitHub and paste the repo URL.
 
-Contributing & license
-- Fork, create a branch, make changes, open a PR.
-- Add a LICENSE file to specify the project license.
 
-Contact
-- Owner: omerjan-k (https://github.com/omerjan-k)
